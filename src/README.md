@@ -23,4 +23,3 @@
 Windows 10 Pro x64
 Java 11.0.11
 IntelliJ IDEA 2021.1.3 (Community Edition)
-* <другое ПО, при необходимости>
